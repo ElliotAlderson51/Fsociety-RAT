@@ -56,6 +56,15 @@ This Projects will inject a file to new section in another file.
 Injector.exe "section name" "target" "file"
 ```
 
+## Websites
+
+### Fsociety Control Website
+This is the Control Website the malware is communicate with to get the commands to execute.
+
+### Fsociety Redirect Website
+This website have hardcoded url in the malware code, the malware will get the Control Website url from this website.    
+I create this website so if there is a problem with the Control Website you can just upload the Control Website again and change the url in this website.   
+
 ## Sub Projects
 This solutions was helping me to build the final malware
 
