@@ -1,0 +1,63 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: sans-serif;
+
+}
+
+body
+{
+    background-color: azure;
+}
+
+.big
+{
+    width: 100%;
+    height: auto;
+    font-size: 50px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.LoginBox
+{
+    margin: auto;
+    width: 30%;
+    border: 4px solid black;
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.LoginBox h1
+{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+}
+
+.LoginBox .text label
+{
+    font-size: 30px;
+}
+
+.LoginBox .text form input[type=password], 
+.LoginBox .text form input[type=email]
+{
+    width: 90%;
+    padding: 5px;
+}
+
+.LoginBox .text form input[type=submit]
+{
+    width: 40%;
+    padding: 5px 10px;
+    margin-top: 5px;
+    font-size: 20px;
+    display: block;
+    margin : 0 auto;
+    margin-top: 5px;
+}
