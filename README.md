@@ -80,3 +80,6 @@ This helps me to obfuscate the strings in the malware.
 ## TODO
 
 * Obfuscate Imports
+
+##   
+This project is for EDUCATIONAL PURPOSES ONLY. You are the only responsable for your actions! Happy Hacking (;
