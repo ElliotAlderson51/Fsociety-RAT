@@ -1,5 +1,5 @@
 # Fsociety-RAT
-It was really fun to make this project! This project have a lot of great fetures and an very good website control of the bots.
+It was really fun to make this project! This project have a lot of great features and an very good website control of the bots.
 
 The final Malware per bypassing UAC, installing rootkit on 32 bit systems, obfuscated strings, Anti-VM technique, Process Hollowing , Communicate with the website control using CURL (curl is preinstalled in every windows!). 
 
