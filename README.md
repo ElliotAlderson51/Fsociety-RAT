@@ -48,7 +48,8 @@ The Rootkit is for 32-bit systems. https://github.com/ElliotAlderson51/Kernel-Ro
 :heavy_check_mark: Bypass privilege checks
 
 ## DLL - Bypass UAC
-Create a DLL that will be hijacked to ComputerDefaults to start the malware with high privilege.
+Create a DLL that will be hijacked to ComputerDefaults to start the malware with high privilege.        
+https://github.com/ElliotAlderson51/Bypass-UAC
 
 ## section_injector
 This Projects will inject a file to new section in another file.
